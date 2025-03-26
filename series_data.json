@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Maktoub",
+        "description": "A drama about Khaled, a young man navigating love, fate, and social struggles in modern Tunisia. The series explores the intersections of wealth, power, and personal ambitions.",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "title": "Nsibti L3ziza",
+        "description": "A comedic sitcom centered around a Tunisian family dealing with their eccentric in-laws, cultural misunderstandings, and everyday life struggles, leading to hilarious situations.",
+        "genre": ["Comedy", "Family"]
+    },
+    {
+        "title": "Mnamet 3rousia",
+        "description": "A lighthearted comedy series about a young bride-to-be experiencing pre-wedding struggles, as she faces family pressures, love complications, and cultural traditions.",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "title": "Lkhotab 3albeb",
+        "description": "A romantic comedy-drama revolving around matchmaking and love in Tunisian society. Young men try to win the hearts of potential brides, exploring traditions and modernity.",
+        "genre": ["Comedy", "Romance", "Drama"]
+    },
+    {
+        "title": "Choufli Hal",
+        "description": "A cult classic Tunisian sitcom that follows the daily life of a psychiatrist and his quirky patients. The humorous situations and family moments make it one of the most beloved series.",
+        "genre": ["Comedy", "Sitcom"]
+    },
+    {
+        "title": "Dawama",
+        "description": "A thrilling drama that unravels secrets, betrayals, and power struggles in a high-class Tunisian family. It delves into love, revenge, and destiny.",
+        "genre": ["Drama", "Thriller"]
+    },
+    {
+        "title": "Layem",
+        "description": "A deep social drama that portrays the struggles of love and betrayal, following the complex relationships of a group of friends facing societal and personal conflicts.",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "title": "Naouret El Hawa",
+        "description": "A romantic drama that tells the story of a young couple facing family opposition and financial struggles. The series captures love, sacrifice, and resilience.",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "title": "Awled Moufida",
+        "description": "A gripping drama about a mother trying to protect her sons from the dangers of the streets, crime, and corruption, highlighting social and moral dilemmas in Tunisia.",
+        "genre": ["Drama", "Crime"]
+    },
+    {
+        "title": "El Maestro",
+        "description": "A powerful drama about a music teacher who mentors troubled students in a juvenile detention center, showing the impact of art and hope in difficult circumstances.",
+        "genre": ["Drama", "Social"]
+    },
+    {
+        "title": "Nouba",
+        "description": "A musical drama set in Tunisia’s past, exploring love stories, nostalgia, and the traditional 'Nouba' music scene, bringing old and new generations together.",
+        "genre": ["Drama", "Musical", "Historical"]
+    },
+    {
+        "title": "Tej El Hadhra",
+        "description": "A historical drama depicting life in Tunisia during the 19th century, focusing on power struggles, forbidden love, and political intrigue within the royal court.",
+        "genre": ["Drama", "Historical"]
+    },
+    {
+        "title": "Ichk wa Dmoue",
+        "description": "A passionate romance series about a love story hindered by family rivalry and social expectations, leading to heartbreak and hope.",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "title": "Flashback",
+        "description": "A dark psychological drama following a detective trying to uncover a hidden conspiracy while dealing with personal trauma and flashbacks from his past.",
+        "genre": ["Drama", "Thriller", "Crime"]
+    },
+    {
+        "title": "El Foundou",
+        "description": "A dramatic series exploring injustice and revenge, following the life of a young man wrongly accused of a crime, who later seeks justice and redemption.",
+        "genre": ["Drama", "Crime"]
+    }
+]
