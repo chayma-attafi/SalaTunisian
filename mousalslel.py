@@ -51,7 +51,7 @@ def latin_to_arabic_text(text):
 
 
 def generate_llm_response(user_input):
-    api_key = "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"  # Replace with your actual API key
+    api_key = "GROQ_API_KEY"  # Replace with your actual API key
     url = "https://api.groq.com/openai/v1/chat/completions"  # Groq API endpoint
 
     headers = {
